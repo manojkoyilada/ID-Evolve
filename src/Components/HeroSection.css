@@ -1,0 +1,29 @@
+.herosection {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 7rem;
+}
+
+
+.herosection h1 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 6rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+.loginbtn {
+    margin-top: 2rem;
+}
+@media screen and (max-width: 750px) {
+    .herosection h1 {
+        font-size: 3rem;
+    }
+
+    .herosection p {
+        font-size: 0.75rem;
+    }
+}

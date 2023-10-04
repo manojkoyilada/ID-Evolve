@@ -1,0 +1,25 @@
+.features {
+    display: flex;
+    min-width: 100vh;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.feat_head {
+    margin-top: 2rem;
+    margin-bottom: -4rem;
+    margin-left: 2.5rem;
+}
+
+.feat_head h1 {
+    font-weight: 500;
+    font-size: 3rem;
+    color: #525ee4;
+}
+
+@media screen and (max-width: 750px) {
+    .feat_head h1 {
+        font-size: 1.5rem;
+    }
+}
