@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ID-Evolve/static/css/main.12b799ba.css",
+    "main.js": "/ID-Evolve/static/js/main.f5335414.js",
+    "static/js/787.43c47c9e.chunk.js": "/ID-Evolve/static/js/787.43c47c9e.chunk.js",
+    "static/media/18.jpg": "/ID-Evolve/static/media/18.561e426be0b69ec4eb74.jpg",
+    "static/media/9.jpg": "/ID-Evolve/static/media/9.8624d41e8cb8020849f7.jpg",
+    "static/media/logo.svg": "/ID-Evolve/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ID-Evolve/index.html",
+    "main.12b799ba.css.map": "/ID-Evolve/static/css/main.12b799ba.css.map",
+    "main.f5335414.js.map": "/ID-Evolve/static/js/main.f5335414.js.map",
+    "787.43c47c9e.chunk.js.map": "/ID-Evolve/static/js/787.43c47c9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b799ba.css",
+    "static/js/main.f5335414.js"
+  ]
+}
